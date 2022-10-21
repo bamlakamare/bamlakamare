@@ -4,7 +4,7 @@
 <h1 align="center">
     Hi 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px">
-    , I'm Bamlak Amare  
+    , I'm Bamlak  
     <img align="right" src="https://komarev.com/ghpvc/?username=bamlakamare&style=flat-square&color=blue" alt=""/>
 </h1>
       
