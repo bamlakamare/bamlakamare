@@ -15,8 +15,8 @@
 <h3 align="center">Connect with me:</h3> -->
 
 <!-- <p align="center">
-    <a href="https://linkedin.com/in/bitsu-mamo-55a24b194" target="blank"><img align="center" src="https://github.com/bitsumamo/bitsumamo/blob/main/assets/linkedin.svg" alt="bitsu-mamo" height="30" width="40" /></a>
-    <a href="https://instagram.com/mrhappy985" target="blank"><img align="center" src="https://github.com/bitsumamo/bitsumamo/blob/main/assets/instagram.svg" alt="mrhappy985" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/bitsu-mamo-55a24b194" target="blank"><img align="center" src="https://github.com/bamlakamare/bamlakamare/blob/main/assets/linkedin.svg" alt="bitsu-mamo" height="30" width="40" /></a>
+    <a href="https://instagram.com/mrhappy985" target="blank"><img align="center" src="https://github.com/bamlakamare/bamlakamare/blob/main/assets/instagram.svg" alt="mrhappy985" height="30" width="40" /></a>
 </p> -->
 
 <!-- Langauges -->
@@ -34,13 +34,13 @@
 
 <p align="center">  
 <!-- GitHub Stats -->  
-    <!-- <img height="180em" width = "100%" src="https://github-readme-stats.vercel.app/api?username=bitsumamo&show_icons=true&hide_border=true" /> -->
+    <!-- <img height="180em" width = "100%" src="https://github-readme-stats.vercel.app/api?username=bamlakamare&show_icons=true&hide_border=true" /> -->
     <img height="180em" width = "100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bamlakamare&layout=compact&theme=radical" />
-    <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=bitsumamo&layout=compact&theme=radical -->
+    <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=bamlakamare&layout=compact&theme=radical -->
 <!-- Most Used Languages -->  
-    <!-- <img height="180em" width = "100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitsumamo&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
+    <!-- <img height="180em" width = "100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bamlakamare&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
     <img height="180em" width = "100%" src="https://github-readme-stats.vercel.app/api?username=bamlakamare&layout=compact&theme=radical"/>
-    <!-- https://github-readme-stats.vercel.app/api?username=bitsumamo&layout=compact&theme=radical -->
+    <!-- https://github-readme-stats.vercel.app/api?username=bamlakamare&layout=compact&theme=radical -->
 </p>  
 
 <!-- Icons From IconScout -->
