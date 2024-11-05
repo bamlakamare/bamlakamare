@@ -25,6 +25,5 @@ My current project involves developing a game with themed chests (Bronze, Silver
 
 ### 📫 Connect with Me
 - **Email**: BamlakAmare@gmail.com
-- **LinkedIn**: [Your LinkedIn]
 - **Twitter**: @R3P5ME
-- **Personal Website**: bamlakAmare.com
+- **Personal Website**: Bamlak.pro
